@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tuanthanhnguyen275
+- 👋 Hi, I’m Thành
 - 👀 I’m a recruitment consultant from PERSOLKELLY Vietnam
 - 💞️ I’m looking for Fullstack, Front-End, Back-End Developers 
 - 📫 You can contact me via: tuanthanh.nguyen275@gmail.com 
